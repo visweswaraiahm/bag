@@ -1,4 +1,6 @@
 school bag
 college bag
 office bag
+lauguage bag
+travelling bag
 etc
